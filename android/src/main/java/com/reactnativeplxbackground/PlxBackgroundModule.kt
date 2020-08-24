@@ -8,7 +8,7 @@ import com.facebook.react.bridge.Promise
 class PlxBackgroundModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
 
     override fun getName(): String {
-        return "PlxBackground"
+        return "PLXBackground"
     }
 
     // Example method
